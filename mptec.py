@@ -1,3 +1,11 @@
+# Copyright (c) Fulan Li.
+# All rights reserved.
+#
+# This source code is licensed under the license found in the
+# LICENSE file in the root directory of this source tree.
+'''
+Convert input video into ROI color data array
+'''
 import cv2
 import mediapipe as mp
 import numpy as np

@@ -1,6 +1,6 @@
 # CVPM-2023-Temporal-Encoder-Decoder-rPPG
 
-This repo is the official implementation of our paper "A Temporal Encoder-Decoder Approach to Extracting Blood Volume Pulse Signal Morphology from Face Videos" presented at CVPM workshop at CVPR 2023.
+This repo is the official implementation of <a href="https://openaccess.thecvf.com/content/CVPR2023W/CVPM/html/Li_A_Temporal_Encoder-Decoder_Approach_to_Extracting_Blood_Volume_Pulse_Signal_CVPRW_2023_paper.html" target="_blank">our paper</a> "A Temporal Encoder-Decoder Approach to Extracting Blood Volume Pulse Signal Morphology from Face Videos" presented at CVPM workshop at CVPR 2023.
 
 10.pdf: Our camera-ready version paper.
 

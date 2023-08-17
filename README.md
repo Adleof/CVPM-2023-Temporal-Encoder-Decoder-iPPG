@@ -15,3 +15,15 @@ reautest_facemesh5ch.ipynb: Code for authentication test.
 normalized_label22_morefilt.npy: Normalized filtered ground truth for DEAP(Optional, you can generate using code given).
 
 Required package: tensorflow, numpy, scipy, mediapipe, cv2, plotly.
+
+If you find this work useful, please cite the following paper:
+
+```@InProceedings{Li_2023_CVPR,
+    author    = {Li, Fulan and Thapa, Surendrabikram and Bhat, Shreyas and Sarkar, Abhijit and Abbott, A. Lynn},
+    title     = {A Temporal Encoder-Decoder Approach to Extracting Blood Volume Pulse Signal Morphology From Face Videos},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2023},
+    pages     = {5964-5973}
+}
+```
